@@ -21,8 +21,8 @@ The app builds routes and calculates the travel time and cost for different type
 
 3. Clone the repository
 
-- if you are using HTTPS: git clone https://github.com/username/urbanrouteswebapp_RequirAnalysisTestCaseCreation.git
-- if you are using SSH: git clone git@github.com:username/urbanrouteswebapp_RequirAnalysisTestCaseCreation.git
+- if you are using HTTPS: git clone https://github.com/username/urbanrouteswebapp_RequirAnalysisTestCasesCreation.git
+- if you are using SSH: git clone git@github.com:username/urbanrouteswebapp_RequirAnalysisTestCasesCreation.git
 
 ## Usage
 
