@@ -1,0 +1,3 @@
+Urban Routes web app testing
+
+The app builds routes and calculates the travel time and cost for different types of transportation. This testing project contains requirement analysis (decomposition of complex requirements into manageable atomic blocks), test planning, test case creation using fundamentals of test design (equivalence partitioning, boundary value analysis), environment setup, test execution, test closure, navigating the pages of a test plan
